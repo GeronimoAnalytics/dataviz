@@ -17,9 +17,9 @@ A sleek Power BI custom visual that transforms bubble charts into interactive ba
 
 ### Installation
 
-1. Download the visual from your Power BI organization
+1. Download the measure
 2. Add it to your Power BI Desktop report
-3. Drag your data fields to the visual's data buckets
+3. Tweak it to your needs
 
 ### Configuration
 
