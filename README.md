@@ -10,7 +10,7 @@ Welcome to my personal data portfolio. This repository serves as a curated showc
 | **[`BubbleToBar`](./BubbleToBar)** | Power BI, DAX, SVG, HTML/CSS | Advanced Data Viz | A fully customized, animated particle bubble chart that morphs into a bar chart inside a single measure. |
 | **[`Power BI Landing Page`](./Power%20BI%20Landing%20Page)** | Power BI, UI/UX Design, Web Tech | Dashboard UX | A premium, interactive application-like portal environment designed directly within the report canvas. |
 | **[`Power BI`](./Power%20BI)** | Power BI, DAX, Advanced Visuals | Core BI | A collection of specialized custom assets, including custom KPI gauges and advanced financial/operational dashboards. |
-| **[`05_data_analysis`](./05_data_analysis)** | Python, Jupyter Notebooks, Pandas | Data Science | Statistical analysis projects including multiple spurious-correlation case studies and exploratory workflows. |
+| **[`05_data_analysis`](#)** | Python, Jupyter Notebooks, Pandas | Data Science | Statistical analysis, exploratory data analysis (EDA), and predictive modeling on various datasets. |
 
 ---
 
@@ -36,14 +36,7 @@ dataviz/
 ├── BubbleToBar/                 # Custom animated SVG population bubble visual
 ├── Power BI Landing Page/       # Premium 3D particle animation report canvas
 ├── Power BI/                    # Advanced Power BI visuals (e.g., Flow Ratio KPI gauge)
-├── 05_data_analysis/            # Imported projects from data_analysis repository
-│   ├── README.md
-│   └── python/
-│       ├── chicken_vs_oil/
-│       ├── chocolate_vs_nobel/
-│       ├── divorce_vs_margarine/
-│       ├── spurious_correlation_analysis/
-│       └── vegas_weddings_vs_polar_bears/
+├── 05_data_analysis/            # Python & Jupyter Notebook exploratory analysis
 └── README.md                    # This file
 ```
 
@@ -62,14 +55,6 @@ Enterprise-grade Power BI implementations including custom KPI gauges, financial
 
 ### Data Analysis & Python
 Exploratory data analysis, statistical modeling, and Python-based data science workflows using Pandas, NumPy, and Jupyter notebooks.
-
-Included analysis projects:
-
-- [Spurious Correlation Analysis](./05_data_analysis/python/spurious_correlation_analysis)
-- [Divorce vs. Margarine](./05_data_analysis/python/divorce_vs_margarine)
-- [Chocolate vs. Nobel Prizes](./05_data_analysis/python/chocolate_vs_nobel)
-- [Vegas Weddings vs. Polar Bears](./05_data_analysis/python/vegas_weddings_vs_polar_bears)
-- [Chicken vs. Crude Oil](./05_data_analysis/python/chicken_vs_oil)
 
 ---
 
