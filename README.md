@@ -63,7 +63,7 @@ Exploratory data analysis, statistical modeling, and Python-based data science w
 Feel free to browse through the folders to explore the source code, queries, and design implementations. If you have any questions about the architectures or techniques used, let's connect!
 
 * **GitHub:** [@GeronimoAnalytics](https://github.com/GeronimoAnalytics)
-* **Portfolio:** [geronimoanalytics.com](https://geronimoanalytics.com)
+* **Portfolio:** [geronimoanalytics.com](https://geronimoanalytics.com](https://geronimoanalytics.github.io/about/))
 
 ---
 
